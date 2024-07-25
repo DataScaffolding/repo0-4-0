@@ -1,3 +1,8 @@
+Package: AlgDesign
+Version: 1.2.1
+License: GPL (>= 2)
+MD5sum: 61ff2790615c2cb119b65bd0e42dbc4e
+
 Package: DBI
 Version: 1.2.3
 Depends: methods, R (>= 3.0.0)
@@ -460,7 +465,7 @@ Imports: methods
 Suggests: bit64 (>= 4.0.0), bit (>= 4.0.4), R.utils, xts, zoo (>=
         1.8-1), yaml, knitr, markdown
 License: MPL-2.0 | file LICENSE
-MD5sum: 6f9b5db712f3e5340a6fbb0e216fc1d1
+MD5sum: e0bd4964ce68f0531b44b42711334c1e
 
 Package: datawizard
 Version: 0.12.2
@@ -635,7 +640,7 @@ Imports: methods
 Suggests: covr, crayon, knitr, pillar (>= 1.0.0), rmarkdown, spelling,
         testthat (>= 3.0.0), tibble (>= 1.1.0), vctrs (>= 0.3.0), withr
 License: MIT + file LICENSE
-MD5sum: 26c4681989c6472463253271d46ee46e
+MD5sum: c59c8af2c2b82cbe3c6bd6550af6484f
 
 Package: generics
 Version: 0.1.3
@@ -741,7 +746,7 @@ Suggests: covr, digest (>= 0.6.31), fontawesome (>= 0.5.2), ggplot2,
         (>= 2.20), rvest, shiny (>= 1.7.4), testthat (>= 3.1.9), tidyr,
         webshot2 (>= 0.1.0)
 License: MIT + file LICENSE
-MD5sum: 14444150cf27b6b5e208425474605aed
+MD5sum: ada94ed92034e25333fedf0c9c22a1cc
 
 Package: gtable
 Version: 0.3.5
@@ -855,7 +860,7 @@ Suggests: ape (>= 5.7-0.1), callr, decor, digest, graph, igraphdata,
         knitr, rgl, rmarkdown, scales, stats4, tcltk, testthat, vdiffr,
         withr
 License: GPL (>= 2)
-MD5sum: 6c429426387d06294c7ec995e72a5131
+MD5sum: 0158ec965f61e9bc1b97d5b6bc3f3269
 
 Package: ini
 Version: 0.3.1
@@ -1088,7 +1093,7 @@ Depends: R(>= 3.5.0)
 Imports: stats
 Suggests: qrng, numDeriv
 License: GPL-2
-MD5sum: f164c13ec15c8a3550010e3473b9a6c0
+MD5sum: 70fca3e1b8d6a967609b27913252e72c
 
 Package: nanotime
 Version: 0.3.9
